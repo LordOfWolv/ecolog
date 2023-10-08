@@ -58,4 +58,4 @@ async def hello(ctx):
 
 
 
-bot.run('MTE2MDUxNzQzNDgyMjkwMTc4MA.GkQlmC.xDWChHrMkf_HFWZOiY-zxLTnLVbsNCekEfA7bM')
+bot.run('')
